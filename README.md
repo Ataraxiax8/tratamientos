@@ -1,4 +1,3 @@
-readme_content = """
 # Generador de Matriz de Tratamientos para Experimentos Estadísticos
 
 Este repositorio contiene un script en Python que genera automáticamente la matriz de tratamientos (combinaciones de factores y niveles) para el diseño de experimentos utilizados en análisis estadístico. La salida se exporta en formato Excel y puede ser usada como base para el diseño de pruebas o análisis factoriales.
