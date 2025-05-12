@@ -1,5 +1,3 @@
-# Crear archivo README.md con el contenido proporcionado
-
 readme_content = """
 # Generador de Matriz de Tratamientos para Experimentos Estadísticos
 
